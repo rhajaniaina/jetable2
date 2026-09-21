@@ -1,0 +1,14 @@
+C:\Users\hajan\sio2\jetable2\bin\Debug\net10.0\jetable2.exe
+C:\Users\hajan\sio2\jetable2\bin\Debug\net10.0\jetable2.deps.json
+C:\Users\hajan\sio2\jetable2\bin\Debug\net10.0\jetable2.runtimeconfig.json
+C:\Users\hajan\sio2\jetable2\bin\Debug\net10.0\jetable2.dll
+C:\Users\hajan\sio2\jetable2\bin\Debug\net10.0\jetable2.pdb
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.AssemblyInfoInputs.cache
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.AssemblyInfo.cs
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.csproj.CoreCompileInputs.cache
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.dll
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\refint\jetable2.dll
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.pdb
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\jetable2.genruntimeconfig.cache
+C:\Users\hajan\sio2\jetable2\obj\Debug\net10.0\ref\jetable2.dll
