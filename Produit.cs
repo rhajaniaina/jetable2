@@ -9,8 +9,8 @@ public class Produit : IAffichable{
     }
 
     public void Afficher(){
-        Console.WriteLine("Voici le Nom: " + Nom);
-        Console.WriteLine("Voici le Prix " + Prix);
+        Console.WriteLine("Voici le nom: " + Nom);
+        Console.WriteLine("Voici le prix " + Prix);
     }
 
 }
