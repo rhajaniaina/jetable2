@@ -1,7 +1,14 @@
-﻿Produit ak = new Produit("AK", 900m);
+﻿
+
+var ak = new Produit("AK", 900m);
 var Fadel = new Client("Fadel", "Fadel@lpb.com");
 
-IAffichable element = new Client("Fadel", "Fadel@lpb.com");
 
-element.Afficher();
+
+static void AfficherElement(IAffichable element)
+{
+    element.Afficher();
+}
+
+AfficherElement(new Commande("7790AH", 100m));
 
